@@ -123,13 +123,13 @@ void autoPopulateData()
 {
     // Predefined realistic Pakistani names
     string names[] = {
-        "Ahmed Ali", "Fatima Khan", "Hassan Malik", "Ayesha Ahmed", "Usman Tariq",
+        "Ahmed Ali", "Fatima Khan ", "Hassan Malik", "Ayesha Ahmed", "Usman Tariq",
         "Zainab Hassan", "Bilal Raza", "Mariam Iqbal", "Saad Hussain", "Hira Siddiqui",
         "Hamza Shahid", "Amina Farooq", "Faisal Aziz", "Nadia Rashid", "Imran Saeed",
-        "Sana Bibi", "Kamran Javed", "Rabia Noor", "Arslan Butt", "Javeria Asif",
+        "Sana Bibi", "Kamran Javed ", "Rabia Noor", "Arslan Butt", "Javeria Asif",
         "Talha Nasir", "Mehwish Ali", "Adnan Qadir", "Samia Riaz", "Junaid Aslam",
         "Farah Mahmood", "Waseem Akram", "Nimra Shah", "Shoaib Akhtar", "Bushra Yousaf",
-        "Rizwan Ahmed", "Laiba Zahid", "Asif Munir", "Maryam Saleem", "Kashif Mehmood",
+        "Rizwan Ahmed", "Laiba Zahid ", "Asif Munir", "Maryam Saleem", "Kashif Mehmood",
         "Aliza Nawaz", "Fahad Umar", "Sadaf Khan", "Waqas Jamil", "Anum Tanveer",
         "Nabeel Haider", "Saima Akram", "Tariq Bashir", "Uzma Pervaiz", "Shahid Afridi",
         "Hina Aslam", "Zohaib Hassan", "Aiman Rauf", "Naveed Iqbal", "Rida Zafar",
@@ -212,7 +212,7 @@ int main()
         cout << "2. Academic Records\n";
         cout << "3. Attendance Module\n";
         cout << "4. Analytics & Reports\n";
-        cout << "5. Admin Management\n";  
+        cout << "5. Admin Management \n";  
         cout << "6. Exit\n";
         cout << "=====================\n";
 
